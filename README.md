@@ -43,6 +43,15 @@ The LDA model was trained using the preprocessed historical data. The target var
 
 - 1 represents that the price went up
 - 0 represents that the price went down
+# Data Visualization
+## Training Data:
+![image](https://github.com/Medix1075/Stock-Sentiment-Analysis-using-Machine-Learning/assets/148248290/368fa046-64f1-4caa-b652-a028572376e7)
+
+## Testing Data:
+![image](https://github.com/Medix1075/Stock-Sentiment-Analysis-using-Machine-Learning/assets/148248290/30e4802d-1bbe-458e-863b-42f2b1aadb80)
+
+
+
 
 # Resources used
 - Yahoo Finance (https://finance.yahoo.com/quote/ETH-USD/news/)
